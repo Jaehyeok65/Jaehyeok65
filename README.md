@@ -1,7 +1,7 @@
 ### 26, Male, FE Developer Aspirant
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeok65&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeok65&show_icons=true&theme=default)
 
 [![asfg15](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
