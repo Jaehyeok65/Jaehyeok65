@@ -1,4 +1,4 @@
-### Hi there 👋
+### 26, Male, FE Developer Aspirant
 
 <!--
 **Jaehyeok65/Jaehyeok65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
