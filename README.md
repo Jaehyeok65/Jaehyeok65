@@ -1,4 +1,13 @@
-### 26, Male, FE Developer Aspirant
+##### 26살 프론트엔드 개발자 지망생입니다.
+
+<br/>
+<br/>
+
+
+##### Skils
+
+
+
 
 
 <br/>
