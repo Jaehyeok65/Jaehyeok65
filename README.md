@@ -3,7 +3,7 @@
 <br/>
 
 ##### Skils
-<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/SpringJPA-RGBA27?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-BBBA27?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-TTAA28?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/SpringJPA-RGBA27?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-BBBA27?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-TTAA28?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-RGBA27?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-AA4785?style=flat-square&logo=styled-components&logoColor=white"/>
 
 
 
